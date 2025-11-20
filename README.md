@@ -43,8 +43,7 @@
 <img width="99" height="56" alt="horror" src="https://github.com/user-attachments/assets/3b34ca2b-4370-4da0-b2b3-9570c50a1ec9" />
 <img width="99" height="56" alt="zupa" src="https://github.com/user-attachments/assets/24a862ec-60c3-4c77-ad60-3aa6fb6114c4" />
 <img width="99" height="56" alt="yaoi" src="https://github.com/user-attachments/assets/d39c6960-221a-43c5-9e00-52be7ce08de6" />
-<img width="89" height="54" alt="g" src="https://github.com/user-attachments/assets/91fe1d09-a754-450e-9134-ced8f7e29ec4" />
 <img width="99" height="56" alt="kot" src="https://github.com/user-attachments/assets/3d0d3237-00bd-4924-89ae-14c776a0f4c9" />
 <img width="99" height="56" alt="rr" src="https://github.com/user-attachments/assets/c56a5e5b-3bcb-4ffc-9fa6-70ab4cc9e9f6" />
 <img width="99" height="56" alt="r" src="https://github.com/user-attachments/assets/3a0a4f35-442e-4f23-911e-145440de8025" />
-<img width="99" height="56" alt="c" src="https://github.com/user-attachments/assets/344316b9-007b-4dd9-836d-0944d1ebe5a6" />
+
