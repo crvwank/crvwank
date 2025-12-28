@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=crvwank)
+
 
 
 ![jm](https://github.com/user-attachments/assets/6e7ee5ef-a62c-4a7e-9df7-280e4d242ff8)
