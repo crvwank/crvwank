@@ -1,4 +1,4 @@
-
+![Visitor Count](https://profile-counter.glitch.me/{crvwank}/count.svg)
 
 
 ![jm](https://github.com/user-attachments/assets/6e7ee5ef-a62c-4a7e-9df7-280e4d242ff8)
