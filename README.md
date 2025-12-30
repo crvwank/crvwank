@@ -1,3 +1,9 @@
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=crvwank&color=AB465C&style=plastic&label=(˶ˆᗜˆ˵)&base=600)<br>
+<br>
+
+
 ![jm](https://github.com/user-attachments/assets/6e7ee5ef-a62c-4a7e-9df7-280e4d242ff8)
 ![mn](https://github.com/user-attachments/assets/74de743a-4715-4570-bada-e554cf799321)
 ![nm](https://github.com/user-attachments/assets/12d83521-39f6-4f7e-8967-ce8323f2d6ec)
