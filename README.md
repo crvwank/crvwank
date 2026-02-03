@@ -1,6 +1,8 @@
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=crvwank&color=AB465C&style=plastic&label=(˶ˆᗜˆ˵)&base=600)<br>
+![](https://komarev.com/ghpvc/?username=crvwank&color=D6698A&style=plastic&label=✩&base=600)<br>
+
+![](https://projectpokemon.org/images/normal-sprite/sylveon.gif)
 <br>
 
 
